@@ -1,10 +1,8 @@
+import WelcomePage from "./pages/welcome";
+
+
 function App() {
-  return (
-    <div>
-      <h1>Sudoku</h1>
-      <p>Coming soon...</p>
-    </div>
-  );
+  return <WelcomePage />;
 }
 
 export default App;
